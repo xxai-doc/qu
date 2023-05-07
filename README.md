@@ -2,9 +2,9 @@
 
 * [Web nisqapi Achka simipi Qillqakuna](https://github.com/xxai-doc)
 
-Web kitip ñawpaqninpi codigonqa kichasqa qullqiyuq, allin hamuy tikrayta allinchaypaq yanapakuypaq
+Web kitip ñawpaqninpi codigo kichasqa qullqiyuq, allin hamuy tikrayta allinchaypaq yanapakuypaq
 
-* [ñawpaqninpi kaq codigo](https://github.com/xxai-art/web)
+* [Código de Frontend nisqa](https://github.com/xxai-art/web)
 * [Simi paquetes llapan sitiopaq](https://github.com/xxai-art/web/tree/main/i18n)
 * [Yaykuna módulos kaqpaq simi paquetes](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Web nisqapi Achka simipi Qillqakuna](https://github.com/xxai-doc)
